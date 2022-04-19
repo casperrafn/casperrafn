@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @casperrafn
 - 👀 I’m interested in code, trading iot and whatever
-- 🌱 I’m currently learning Golang + revisiting C
+- 🌱 I’m currently learning Golang + revisiting C/lua
 - 📫 How to reach me ... linkedin I guess
 
 <!---
